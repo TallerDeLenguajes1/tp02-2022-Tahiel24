@@ -1,0 +1,8 @@
+● ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+No, debido a que se realizo el commit en una rama diferente (Opcion_2) y luego se volvio a la rama master
+
+● Vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+Al realizar el gitk --all, el archivo respuestas.txt aparece vinculado en la rama Master. Además, la rama "Opcion_2" ahora figura en el historial de versiones
+
+● Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+Al realizar el merge, ahora se puede como se fusionaron ambas ramas, Master y Opcion_2
